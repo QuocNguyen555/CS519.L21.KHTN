@@ -16,6 +16,6 @@ Cấu trúc: "cụm từ tìm kiếm"
 
 Ví dụ: "nghiên cứu khoa học". Kết quả trả về sẽ có đúng cụm từ **nghiên cứu khoa học** như bên dưới:
 
-![Ảnh minh hoa](Images/QT11_1.png)
+![Ảnh minh hoa](Images/QT11_1.PNG)
 
 ## 2.
